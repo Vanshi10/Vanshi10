@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on web development<br>I'm interested in learning coding and technical stuff 
+I'm currently working on web development also I'm interested in learning coding and technical stuff .<br>
+I am an ambitious and driven engineering student in her pre-final year.<br>
+I have a strong skill set in HTML, CSS, Javascript, and Python, and I have my sights set on front-end development and design as a profession.<br>
+I am also a professional dancer and have strong leadership and management skills.<br>
+I currently hold a 9.6 CGPA from Medicaps University and am the Operation Head at GDSC.<br>
+An impressive academic and creative individual, I am sure to make a mark in the tech industry soon.
+
+
 
 
 ## 🌐 Socials:
